@@ -3,3 +3,4 @@ Requests
 streamlit
 matplotlib
 seaborn
+pandasai
