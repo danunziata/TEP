@@ -31,7 +31,6 @@ cligj==0.7.2
 colorama==0.4.6
 colour==0.1.5
 comm==0.2.2
-command-not-found==0.3
 contourpy==1.2.1
 cryptography==2.8
 css-parser==1.0.4
