@@ -21,7 +21,6 @@ beautifulsoup4==4.12.3
 bleach==6.1.0
 blinker==1.4
 cachetools==5.4.0
-catfish==1.4.13
 certifi==2024.2.2
 cffi==1.16.0
 chardet==3.0.4
